@@ -1,0 +1,20 @@
+	.arch armv7-a
+	.fpu softvfp
+	.eabi_attribute 20, 1
+	.eabi_attribute 21, 1
+	.eabi_attribute 23, 3
+	.eabi_attribute 24, 1
+	.eabi_attribute 25, 1
+	.eabi_attribute 26, 2
+	.eabi_attribute 30, 4
+	.eabi_attribute 34, 1
+	.eabi_attribute 18, 4
+	.file	"null"
+	.text
+.Ltext0:
+	.cfi_sections	.debug_frame
+.Letext0:
+	.section	.debug_line,"",%progbits
+.Ldebug_line0:
+	.ident	"GCC: (Debian 4.7.2-5) 4.7.2"
+	.section	.note.GNU-stack,"",%progbits

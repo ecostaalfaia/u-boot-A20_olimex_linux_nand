@@ -1,0 +1,5 @@
+sunxi_nand.c:30:5:board_nand_init	8	static
+sunxi_nand.c:36:5:sunxi_nand_read_opts	12	static
+sunxi_nand.c:49:5:sunxi_nand_write_opts	12	static
+sunxi_nand.c:62:5:sunxi_nand_erase_opts	0	static
+sunxi_nand.c:70:5:sunxi_nand_flush_opts	8	static

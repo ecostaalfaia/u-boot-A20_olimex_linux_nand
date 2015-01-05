@@ -1,0 +1,7 @@
+board.c:53:5:spl_boot_device	0	static
+board.c:59:5:spl_boot_mode	0	static
+board.c:65:5:gpio_init	8	static
+board.c:95:6:reset_cpu	8	static
+board.c:103:6:s_init	8	static
+board.c:131:6:enable_caches	0	static
+board.c:143:5:cpu_eth_init	8	static

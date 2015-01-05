@@ -1,0 +1,7 @@
+board.c:44:5:board_init	0	static
+board.c:66:5:checkboard	8	static
+board.c:74:5:dram_init	8	static
+board.c:82:5:board_mmc_init	8	static
+board.c:94:6:sunxi_board_init	8	static
+board.c:144:5:spl_start_uboot	8	static
+board.c:155:6:spl_display_print	0	static

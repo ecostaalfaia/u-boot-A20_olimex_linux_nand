@@ -1,0 +1,8 @@
+/root/mmplayer/u-boot-sunxi/spl/lib/div64.o: div64.c \
+ /root/mmplayer/u-boot-sunxi/include/linux/types.h \
+ /root/mmplayer/u-boot-sunxi/include/linux/config.h \
+ /root/mmplayer/u-boot-sunxi/include/linux/posix_types.h \
+ /root/mmplayer/u-boot-sunxi/include/linux/stddef.h \
+ /root/mmplayer/u-boot-sunxi/include/asm/posix_types.h \
+ /root/mmplayer/u-boot-sunxi/include/asm/types.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.7/include/stdbool.h

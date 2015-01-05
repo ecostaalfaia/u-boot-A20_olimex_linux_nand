@@ -1,0 +1,2 @@
+spl_mmc.c:20:12:mmc_load_image_raw	24	static
+spl_mmc.c:115:6:spl_mmc_load_image	16	static

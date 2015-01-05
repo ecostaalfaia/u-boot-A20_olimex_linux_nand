@@ -1,0 +1,7 @@
+sunxi_emac.c:365:13:sunxi_emac_eth_halt	0	static
+sunxi_emac.c:451:12:sunxi_emac_eth_send	0	static
+sunxi_emac.c:223:12:emac_phy_write	24	static
+sunxi_emac.c:198:12:emac_phy_read	24	static
+sunxi_emac.c:301:12:sunxi_emac_eth_init	40	static
+sunxi_emac.c:370:12:sunxi_emac_eth_recv	16	static
+sunxi_emac.c:470:5:sunxi_emac_initialize	16	static

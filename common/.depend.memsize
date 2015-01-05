@@ -1,0 +1,10 @@
+memsize.o: memsize.c /root/mmplayer/u-boot-sunxi/include/config.h \
+ /root/mmplayer/u-boot-sunxi/include/config_cmd_defaults.h \
+ /root/mmplayer/u-boot-sunxi/include/config_defaults.h \
+ /root/mmplayer/u-boot-sunxi/include/configs/sun7i.h \
+ /root/mmplayer/u-boot-sunxi/include/configs/sunxi-common.h \
+ /root/mmplayer/u-boot-sunxi/include/asm/arch/cpu.h \
+ /root/mmplayer/u-boot-sunxi/include/config_cmd_default.h \
+ /root/mmplayer/u-boot-sunxi/include/asm/config.h \
+ /root/mmplayer/u-boot-sunxi/include/config_fallbacks.h \
+ /root/mmplayer/u-boot-sunxi/include/config_uncmd_spl.h

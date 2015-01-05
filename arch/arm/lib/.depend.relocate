@@ -1,0 +1,4 @@
+relocate.o: relocate.S \
+ /root/mmplayer/u-boot-sunxi/include/linux/linkage.h \
+ /root/mmplayer/u-boot-sunxi/include/asm/linkage.h \
+ /root/mmplayer/u-boot-sunxi/include/linux/config.h

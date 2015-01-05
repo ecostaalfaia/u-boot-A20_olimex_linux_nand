@@ -1,0 +1,5 @@
+cmd_nand.c:998:12:do_nandboot	72	static
+cmd_nand.c:401:13:nand_print_and_set_info	16	static
+cmd_nand.c:203:12:arg_off	32	static
+cmd_nand.c:219:12:arg_off_size	56	static
+cmd_nand.c:479:12:do_nand	224	static

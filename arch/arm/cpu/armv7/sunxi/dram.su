@@ -1,0 +1,2 @@
+dram.c:265:12:dramc_scan_readpipe	0	static
+dram.c:460:5:dramc_init	184	static

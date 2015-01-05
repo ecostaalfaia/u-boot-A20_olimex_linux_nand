@@ -1,0 +1,3 @@
+pinmux.c:29:5:sunxi_gpio_set_cfgpin	12	static
+pinmux.c:47:5:sunxi_gpio_get_cfgpin	0	static
+pinmux.c:62:5:sunxi_gpio_set_pull	8	static

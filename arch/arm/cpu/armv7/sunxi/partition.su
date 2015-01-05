@@ -1,0 +1,9 @@
+partition.c:39:12:0	1032	static
+partition.c:69:5:sunxi_partition_get_total_num	0	static
+partition.c:76:5:sunxi_partition_get_name	8	static
+partition.c:84:5:sunxi_partition_get_offset	0	static
+partition.c:96:5:sunxi_partition_get_size	0	static
+partition.c:108:5:sunxi_partition_get_offset_byname	24	static
+partition.c:124:5:sunxi_partition_get_size_byname	24	static
+partition.c:144:5:sunxi_partition_get_info_byname	32	static
+partition.c:162:5:sunxi_partition_init	56	static

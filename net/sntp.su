@@ -1,0 +1,3 @@
+sntp.c:45:1:SntpTimeout	8	static
+sntp.c:53:1:SntpHandler	64	static
+sntp.c:83:1:SntpStart	72	static

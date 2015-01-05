@@ -1,0 +1,2 @@
+cmd_led.c:60:14:get_led_cmd	8	static
+cmd_led.c:73:5:do_led	24	static

@@ -1,0 +1,2 @@
+spl.c:26:13:board_init_f	8	static
+spl.c:46:17:jump_to_image_linux	8	static

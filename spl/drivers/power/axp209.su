@@ -1,0 +1,11 @@
+axp209.c:48:5:axp209_write	24	static
+axp209.c:53:5:axp209_read	16	static
+axp209.c:58:5:axp209_set_dcdc2	16	static
+axp209.c:85:5:axp209_set_dcdc3	16	static
+axp209.c:102:5:axp209_set_ldo2	16	static
+axp209.c:125:5:axp209_set_ldo3	8	static
+axp209.c:139:5:axp209_set_ldo4	16	static
+axp209.c:165:6:axp209_poweroff	16	static
+axp209.c:180:5:axp209_init	16	static
+axp209.c:198:5:axp209_poweron_by_dc	16	static
+axp209.c:207:5:axp209_power_button	16	static

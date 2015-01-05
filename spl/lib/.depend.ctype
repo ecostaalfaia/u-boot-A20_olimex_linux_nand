@@ -1,0 +1,2 @@
+/root/mmplayer/u-boot-sunxi/spl/lib/ctype.o: ctype.c \
+ /root/mmplayer/u-boot-sunxi/include/linux/ctype.h

@@ -1,0 +1,8 @@
+sunxi_dma.c:61:6:DMA_Request	0	static
+sunxi_dma.c:109:5:DMA_Release	0	static
+sunxi_dma.c:141:5:DMA_Setting	8	static
+sunxi_dma.c:209:5:DMA_Start	0	static
+sunxi_dma.c:236:5:DMA_Stop	0	static
+sunxi_dma.c:260:5:DMA_Restart	0	static
+sunxi_dma.c:284:5:DMA_QueryStatus	0	static
+sunxi_dma.c:306:5:DMA_QueryChannalNo	0	static

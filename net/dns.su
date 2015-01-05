@@ -1,0 +1,3 @@
+dns.c:98:1:DnsTimeout	8	static
+dns.c:105:1:DnsHandler	48	static
+dns.c:198:1:DnsStart	40	static

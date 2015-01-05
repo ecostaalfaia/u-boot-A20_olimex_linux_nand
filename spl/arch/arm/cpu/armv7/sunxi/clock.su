@@ -1,0 +1,4 @@
+clock.c:53:5:clock_init	16	static
+clock.c:86:14:clock_get_pll5	8	static
+clock.c:97:5:clock_twi_onoff	8	static
+clock.c:138:6:clock_set_pll1	32	static

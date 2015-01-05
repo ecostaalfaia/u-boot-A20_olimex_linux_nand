@@ -1,0 +1,5 @@
+sunxi_mmc.c:243:12:mmc_update_clk	0	static
+sunxi_mmc.c:292:13:mmc_set_ios	24	static
+sunxi_mmc.c:317:12:mmc_core_init	0	static
+sunxi_mmc.c:453:12:mmc_send_cmd	72	dynamic
+sunxi_mmc.c:633:5:sunxi_mmc_init	24	static
