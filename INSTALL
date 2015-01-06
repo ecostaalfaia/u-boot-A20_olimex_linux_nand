@@ -1,0 +1,2 @@
+1. Build 
+make sun7i CROSS_COMPILE=arm-none-linux-gnueabi-
